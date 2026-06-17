@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Rachael Muthama]
 
-<!--
-**rachaelmuthama200-tech/rachaelmuthama200-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [computer programming].
+- I'm interested in [web development, software engineering].
+- I'm looking to collaborate on [team projects in association with web development].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Java Script, Python, HTML, CSS]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Understanding programming](Https://GitHub.com/rachaelmuthama200-tech) — short description
+
+## How to Reach Me
+- Email: [rachaelmuthama200@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/rachael-muthama-570371408?utm_source=share_via&utm_content=profile&utm_medium=member_android]
