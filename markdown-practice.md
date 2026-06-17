@@ -19,9 +19,9 @@ Making a commit in Git
 2.Write the body and set the profile
 3.Click on 'commit changes' after choosing the site
 # Table
-|  Tool     |  Purpose   |Link
-|_ _ _ _ _ _| _ _ _ _ _ _| _ _ _
-|           |            |
+ |  Tool     |  Purpose   |Link
+ |_ _ _ _ _ _| _ _ _ _ _ _| _ _ _
+ |           |            |
 # Task List
 Learning Goals
 - [x] Comp. Packages
